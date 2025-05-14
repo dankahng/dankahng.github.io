@@ -2,7 +2,7 @@
 title: "Teaching Assistant, LIN200H1F"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: 
 venue: "University of Toronto, Department of Linguistics"
 date: 2024-09-01
 ---
