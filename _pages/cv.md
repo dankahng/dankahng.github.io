@@ -12,10 +12,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* M.A. Linguistics, University of Toronto (Expected completion: August 2025)
+* B.A. (Hons.) Linguistics Specialist, University of Toronto, 2024
+* A.A.S., Graphic Design, Parsons School of Design, 2016 
+* B.MOS, Finance, University of Western Ontario, 2013
+  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
