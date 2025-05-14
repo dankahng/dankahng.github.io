@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant, LIN200H1F"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Toronto, Department of Linguistics"
+date: Fall 2024
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Hired as one of six teaching assistants in the fall of 2024 for LIN200H1F (Introduction to Language), instructed by Dr. Pedro Mateo Pedro. Duties included the facilitation of weekly tutorial sessions, creation and grading of assessments, and exam invigilation. 
 
 Heading 1
 ======
